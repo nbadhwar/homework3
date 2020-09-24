@@ -77,6 +77,10 @@ tr:nth-child(even){
   background-color: #D1D1D1;
 }
 
+tbody tr:hover{
+  background: rgba(126, 8, 32,.25);
+}
+
 *:focus{
   border: 3px dashed #417243;
 }
